@@ -47,16 +47,16 @@ Sales performance by time of day (highest to lowest):
 * **Bright Coffee Shop Sales (CSV)** — raw sales data from Jan–Jun 2023
 
 * **Sales Analysis (XLSX)** — SQL output data used for visualization
-* **Project Plan (Progress File)** — detailed plan tracking project stages
+* **Project Plan (Miro Project Planning)** — detailed plan tracking project stages
 
 * **Final Report** — comprehensive analysis and recommendations
-* **Coffee Shop SQL Script** — complete SQL query set used for analysis
+* **Bright Coffee Shop Sales Analysis SQL Script** — complete SQL query set used for analysis
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* **Snowflake Cloud Platform**
+* **Snowflake **
 * **Microsoft Excel**
 * **Canva**
 * **Miro**
